@@ -2,3 +2,4 @@ gradio
 numpy
 pandas
 scikit-learn
+gunicorn
